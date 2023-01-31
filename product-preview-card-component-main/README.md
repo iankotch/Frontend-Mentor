@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-with-tailwindcss-ZHdstMZgCj)
-- Live Site URL: [Add live site URL here](https://tubular-empanada-56b52b.netlify.app/)
+- Solution URL: [Go to Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-with-tailwindcss-ZHdstMZgCj)
+- Live Site URL: [Go to Netlify live site](https://tubular-empanada-56b52b.netlify.app/)
 
 ## My process
 
